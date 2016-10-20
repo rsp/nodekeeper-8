@@ -1,0 +1,45 @@
+{
+  "name": "nodekeeper-8",
+  "version": "0.0.0",
+  "description": "Makes Greenkeeper re-run your tests on new Node.js 8.x releases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsp/nodekeeper-8.git"
+  },
+  "keywords": [
+    "node",
+    "greenkeeper",
+    "node versions",
+    "node releases",
+    "version",
+    "versions",
+    "release",
+    "releases",
+    "ci",
+    "tests",
+    "tdd",
+    "continuous integration",
+    "travis",
+    "travis ci",
+    "dependencies",
+    "dependency",
+    "dependency tracking",
+    "node VESION",
+    "node 8.x",
+    "test automation"
+  ],
+  "author": {
+    "name": "Rafał Pocztarski",
+    "email": "r.pocztarski@gmail.com",
+    "url": "https://pocztarski.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsp/nodekeeper/issues"
+  },
+  "homepage": "https://github.com/rsp/nodekeeper-8#readme"
+}
